@@ -18,3 +18,5 @@ $app_list_strings['moduleList']['ayapp_Category']='Categories';
 $app_list_strings['moduleList']['ayapp_SubCategory']='Sub Categories';
 $app_list_strings['moduleListSingular']['ayapp_Category']='Categories';
 $app_list_strings['moduleListSingular']['ayapp_SubCategory']='Sub Category';
+$app_list_strings['moduleList']['ayapp_Comments']='Messages';
+$app_list_strings['moduleListSingular']['ayapp_Comments']='Message';

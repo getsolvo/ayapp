@@ -52,6 +52,7 @@ $dictionary['ayapp_SubCategory'] = array(
     'type' => 'enum',
     'massupdate' => '1',
     'no_default' => false,
+      'default' => 'Active',
     'comments' => '',
     'help' => '',
     'importable' => 'true',
